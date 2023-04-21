@@ -1,0 +1,137 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'poppins','sans-sarif';
+    box-sizing: border-box;
+    
+
+}
+.div0{
+    margin-top: 100px;
+    margin-left: 350px;
+    height: 100px;
+    width: 600px;
+    background-color: navy;
+}
+.div0 h1{
+    
+    height: 40px;
+    width: 250px;
+    float:left;
+    color: white;
+    margin-top: 30px;
+    margin-left: 100px;
+
+    
+}
+.h1 h1{
+    max-width: 100%;
+    max-height: 100%;
+}
+.div0 img{
+    margin-right: 160px;
+    max-width: 100%;
+    max-height: 110%;
+    float: right;
+}
+body{
+   
+    background-color: pink;
+
+}
+.div1{
+    width: 600px;
+  height: 350px;
+  border: 1px solid white;
+   background-color: violet;
+
+  color: black;
+  margin-left: 350px;
+}
+
+.f1{
+     color: white ;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+.f1 label{
+    margin-top: 50px;
+  
+    margin-left: 10px;
+    margin-bottom: 0;
+}
+.f1 input{
+    color: white;
+    outline: none;
+    margin-left: 20px;
+    margin-bottom: 0;
+    width: 300px;
+    height: 35px;
+    background-color: violet;
+   
+   border:none;
+   border-bottom: 1px solid white;
+   
+}
+.f1 input[type=email]{
+    color: white;
+    outline: none;
+    margin-left: 52px;
+    margin-bottom: 0;
+    width: 300px;
+    height: 35px;
+    background-color: violet;
+   
+   border:none;
+   border-bottom: 1px solid white;
+   
+}
+.f1 input[type=number]{
+    color: white;
+    outline: none;
+    margin-left: 52px;
+    margin-bottom: 0;
+    width: 300px;
+    height: 35px;
+    background-color: violet;
+   
+   border:none;
+   border-bottom: 1px solid white;
+   
+}
+.f1 input[type=radio] {
+    /* float: left; */
+    width: 13px;
+    height: 15px;
+    margin-left: 114px;
+}
+h1.gen  {
+    /* width: 26px; */
+    height: 1px;
+    font-size: medium;
+    margin-top: 11px;
+    margin-left: 10px;
+}
+
+h1.pas {
+    height: 0px;
+    font-size: medium;
+    margin-right: 66px;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 19px;
+}
+input#pass {
+    margin-left: 118px;
+}
+#but{
+    color:white;
+    background-color: navy;
+    height: 35px;
+    width: 62px;
+    margin-top: 62px;
+    margin-left: 250px;
+}
+
+
+
